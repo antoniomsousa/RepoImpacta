@@ -4,4 +4,4 @@ app = Flask(__name__)
 
 @app.route("/")
 def pagina_inicial():
-    return "Devops & Cloud LAB"
+    return "Devops & Cloud LAB - Falhando a pipeline"
